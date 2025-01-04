@@ -1,5 +1,4 @@
-import io
-from pprint import pprint
+# Задача "Найдёт везде"
 
 class WordsFinder:
     def __init__(self, *file_names):
